@@ -1,0 +1,39 @@
+body{
+    max-width: 100%;
+}
+.logo{
+    max-width: 300px;
+}
+.header-bg{
+    background: #FFFBF0;
+}
+.title-color{
+    color: #FABE4C;
+}
+.button-bg{
+    background: #A4BC46;
+}
+.jacket-area-bg{
+    background-color: #E5E5E5;
+}
+.jacket-mg-bg{
+    background-color:#F1F1F1;
+}
+.bg-white{
+    background-color: #fff;
+}
+.price-color{
+    color: #FABE4C;
+}
+.btn-padding{
+    padding: 18px 35px;
+}
+
+.imgwh{
+    width: 100%;
+    height: 300px;
+}
+.iconwh{
+    width: 78px;
+    height: 82px;
+}
